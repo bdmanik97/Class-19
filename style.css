@@ -1,0 +1,40 @@
+
+.bg-custom{
+    background-color: aquamarine;
+}
+.navbar-custom{
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 25px;
+    color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.btn-custom{
+    background-color: yellow;
+    font-weight: bold;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.bg-custom2{
+    background-color: antiquewhite;
+}
+
+/* .bg-custom3{
+    background: rgb(0,36,3);
+    background: linear-gradient(90deg, rgba(0,36,3,1) 0%, rgba(99,159,207,0.9360994397759104) 28%, rgba(0,212,255,1) 100%);ound: linear-gradient(90deg, rgba(0,36,3,1) 0%, rgba(9,71,121,0.9360994397759104) 28%, rgba(0,212,255,1) 100%);
+} */
+
+
+/* .container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .card{
+   justify-content: center;
+    width: 30%;
+} */
